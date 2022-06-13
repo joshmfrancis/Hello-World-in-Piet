@@ -24,7 +24,7 @@ Some sample programs can be found here:
 Use cases:
 
  - Build a stronger understanding of programming languages
- - Challenge myself to comprehend difficult concepts.
+ - Challenge myself to comprehend difficult concepts
 
 Problems: 
 
