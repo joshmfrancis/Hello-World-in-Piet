@@ -1,7 +1,7 @@
 # Hello World! 
 It is the first program you should make in any language!
 
-Piet is a Turing complete esoteric stack-based programming language made to look like a Piet Mondrian painting. It was created by David Morgan-Mar in the 1990s. 
+Piet is a Turing complete, stack-based, esoteric programming language made to look like a Piet Mondrian painting. It was created by David Morgan-Mar in the 1990s. 
 
 Piet isn't like most languages, rather most esoteric languages. It uses the change in color and hue to determine the next action on the stack. So any change in a piece of the program will change how the rest of the program will look! 
 
